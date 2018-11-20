@@ -1,0 +1,9 @@
+#container{
+    position: fixed;
+    background: #c1c1c1;
+    right: 0px;
+    top: 55px;
+    width: 1070px;
+    height: 100%;
+    bottom: 50%;
+}

@@ -1,0 +1,50 @@
+.janela{
+    position: fixed;
+    left: 416.5px;
+    top: 80px;
+
+    background: white;
+    width: 700px;
+    height: 500px;
+
+    border-style: solid; 
+    border-width: 0 15px 15px 15px;
+    border-color: rgba(8, 8, 8, 0.938);
+
+    align-items: center;
+    align-content: center;
+
+}
+#header-janela{
+    background-color: rgba(8, 8, 8, 0.938);
+    
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+
+    padding: 5px;
+}
+
+#conteudo-janela{
+    padding: 20px 30px 15px 30px;
+}
+
+.janela-login{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    
+    background: white;
+    width: 400px;
+    height: 330px;
+
+    margin-right: -200px;
+    margin-top: -165px;
+
+    border-style: solid; 
+    border-width: 0 15px 15px 15px;
+    border-color: rgba(8, 8, 8, 0.938);
+
+    align-items: center;
+    align-content: center;
+}

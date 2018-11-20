@@ -1,0 +1,29 @@
+.header{
+    background-color: rgba(8, 8, 8, 0.938);
+    color: orangered;
+    position: fixed;
+    width: 100%;
+    border-bottom: 2px solid rgba(65, 59, 59, 0.384);
+    
+    font-weight: 700;
+    font-size: 30px;
+    padding: 5px 5px 5px 15px;
+    margin-bottom: 200px;
+    
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.747);
+}
+.headerCadastro{
+    background-color: rgba(8, 8, 8, 0.938);
+    color: orangered;
+    position: fixed;
+    width: 100%;
+    border-bottom: 2px solid rgba(65, 59, 59, 0.384);
+    
+    font-weight: 700;
+    font-size: 30px;
+    padding: 5px 5px 5px 15px;
+    margin-bottom: 200px;
+    
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.747);
+    opacity: 0.7;
+}

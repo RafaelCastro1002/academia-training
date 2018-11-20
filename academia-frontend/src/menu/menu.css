@@ -1,0 +1,13 @@
+.menu{
+    position: fixed;
+    background: rgba(8, 8, 8, 0.938);
+
+    top: 55px;
+
+    width: 230px;
+    height: 600px;
+
+    padding-top: 40px;
+
+    box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.50);
+}
